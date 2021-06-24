@@ -1,2 +1,0 @@
-# Culture-Shop
-Hello!
